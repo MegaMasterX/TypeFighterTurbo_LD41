@@ -119,6 +119,12 @@ nCrunchTemp_*
 *.mm.*
 AutoTest.Net/
 
+# Assets folder
+Assets/SFX/
+Assets/Music/
+Assets/Scenes/
+Assets/WordLibraries/
+
 # Web workbench (sass)
 .sass-cache/
 
