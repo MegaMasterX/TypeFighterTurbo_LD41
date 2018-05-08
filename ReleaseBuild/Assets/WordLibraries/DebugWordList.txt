@@ -1,1 +1,0 @@
-An alternative path to victory is through the Hit Damage Judge. As a countermeasure for battles taking too long, a ten second timer will appear on the top of the screen instead of the Custom Gauge on the fifteenth turn. When the timer runs out, the winner of the match will be determined by who dealt the most damage to the other throughout the match.
